@@ -1,0 +1,463 @@
+,Train Number,Start City,Start Time,End City,End Time,Line Style
+0,1,Paris,23:00:00,Enghien,23:22:00,solid
+1,1,Enghien,23:22:00,Pontoise,23:55:00,solid
+2,1,Pontoise,00:00:00,Beaumont,00:28:00,solid
+3,1,Beaumont,00:30:00,Creil,01:08:00,solid
+4,1,Creil,01:15:00,Clermont,01:40:00,solid
+5,1,Clermont,01:42:00,St Just,02:12:00,solid
+6,1,St Just,02:12:00,Breteuil,02:45:00,solid
+7,1,Breteuil,02:45:00,Ailly s.N.,03:09:00,solid
+8,1,Ailly s.N.,03:09:00,Amiens,03:40:00,solid
+9,1,Amiens,04:00:00,Abbeville,05:05:00,solid
+10,1,Abbeville,05:15:00,Montreuil,06:15:00,solid
+11,1,Montreuil,06:25:00,Boulogne,07:40:00,solid
+12,133 fac,Paris,23:15:00,Enghien,23:41:00,dashed
+13,133 fac,Enghien,23:41:00,Pontoise,1900-01-01 00:30:00,dashed
+14,133 fac,Pontoise,00:37:00,Beaumont,01:28:00,dashed
+15,133 fac,Beaumont,01:30:00,Creil,02:30:00,dashed
+16,133 fac,Creil,02:50:00,Clermont,03:37:00,dashed
+17,133 fac,Clermont,03:40:00,St Just,04:22:00,dashed
+18,133 fac,St Just,04:22:00,Breteuil,05:12:00,dashed
+19,133 fac,Breteuil,05:22:00,Ailly s.N.,06:10:00,dashed
+20,133 fac,Ailly s.N.,06:12:00,Amiens,07:05:00,dashed
+21,25,Amiens,07:00:00,Abbeville,08:50:00,dashed
+22,25 facultatif marchand.,Abbeville,09:00:00,Montreuil,10:16:00,dashed
+23,25 facultatif marchand.,Montreuil,10:22:00,Boulogne,11:45:00,dashed
+24,107,Paris,21:00:00,Enghien,21:30:00,dashed
+25,107,Enghien,21:30:00,Pontoise,22:12:00,dashed
+26,107,Pontoise,22:21:00,Beaumont,23:06:00,dashed
+27,107,Beaumont,23:10:00,Creil,1900-01-01 00:10:00,dashed
+28,107,Creil,01:30:00,Clermont,02:25:00,dashed
+29,107,Clermont,02:30:00,St Just,03:25:00,dashed
+30,107,St Just,03:30:00,Breteuil,04:25:00,dashed
+31,107,Breteuil,04:35:00,Ailly s.N.,05:28:00,dashed
+32,107,Ailly s.N.,05:31:00,Amiens,06:38:00,dashed
+33,159 fac,Amiens,08:00:00,Abbeville,09:29:00,dashed
+34,159 fac,Abbeville,10:00:00,Montreuil,10:54:00,dashed
+35,159 fac,Montreuil,11:00:00,Boulogne,12:00:00,dashed
+36,109,Paris,00:30:00,Enghien,01:00:00,dashed
+37,109,Enghien,01:00:00,Pontoise,01:47:00,dashed
+38,109,Pontoise,01:50:00,Beaumont,02:35:00,dashed
+39,109,Beaumont,02:40:00,Creil,03:38:00,dashed
+40,109,Creil,04:00:00,Clermont,04:40:00,dashed
+41,109,Clermont,04:51:00,St Just,05:30:00,dashed
+42,109,St Just,05:32:00,Breteuil,06:12:00,dashed
+43,109,Breteuil,06:15:00,Ailly s.N.,07:06:00,dashed
+44,109,Ailly s.N.,07:12:00,Amiens,08:09:00,dashed
+45,117 fac,Paris,02:12:00,Enghien,02:45:00,dashed
+46,117 fac,Enghien,02:45:00,Pontoise,03:30:00,dashed
+47,117 fac,Pontoise,03:37:00,Beaumont,04:25:00,dashed
+48,117 fac,Beaumont,04:31:00,Creil,05:30:00,dashed
+49,117 fac,Creil,05:50:00,Clermont,06:35:00,dashed
+50,117 fac,Clermont,06:40:00,St Just,07:20:00,dashed
+51,117 fac,St Just,07:25:00,Breteuil,08:15:00,dashed
+52,117 fac,Breteuil,08:20:00,Ailly s.N.,09:00:00,dashed
+53,117 fac,Ailly s.N.,09:00:00,Amiens,09:47:00,dashed
+54,121 fac,Paris,03:15:00,Enghien,03:41:00,dashed
+55,121 fac,Enghien,03:41:00,Pontoise,04:30:00,dashed
+56,121 fac,Pontoise,04:35:00,Beaumont,05:25:00,dashed
+57,121 fac,Beaumont,05:30:00,Creil,06:30:00,dashed
+58,121 fac,Creil,06:42:00,Clermont,07:22:00,dashed
+59,121 fac,Clermont,07:30:00,St Just,07:49:00,dashed
+60,121 fac,St Just,07:50:00,Breteuil,08:50:00,dashed
+61,121 fac,Breteuil,10:30:00,Ailly s.N.,11:21:00,dashed
+62,121 fac,Ailly s.N.,11:30:00,Amiens,12:22:00,dashed
+63,3,Paris,06:00:00,Enghien,06:20:00,dot-dashed
+64,3,Enghien,06:01:00,Pontoise,06:46:00,dot-dashed
+65,3,Pontoise,06:50:00,Beaumont,07:20:00,dot-dashed
+66,3,Beaumont,07:20:00,Creil,07:52:00,dot-dashed
+67,3,Creil,08:00:00,Clermont,08:31:00,dot-dashed
+68,3,Clermont,08:31:00,St Just,08:58:00,dot-dashed
+69,3,St Just,09:00:00,Breteuil,09:15:00,dot-dashed
+70,3,Breteuil,09:30:00,Ailly s.N.,09:55:00,dot-dashed
+71,3,Ailly s.N.,09:55:00,Amiens,10:30:00,dot-dashed
+72,,Paris,07:30:00,Enghien,07:40:00,solid
+73,,Enghien,07:40:00,Pontoise,07:52:00,solid
+74,,Pontoise,07:57:00,Beaumont,08:12:00,solid
+75,,Beaumont,08:12:00,Creil,08:35:00,solid
+76,,Creil,08:40:00,Clermont,08:55:00,solid
+77,,Clermont,08:55:00,St Just,09:10:00,solid
+78,,St Just,09:10:00,Breteuil,09:22:00,solid
+79,,Breteuil,09:23:00,Ailly s.N.,09:39:00,solid
+80,,Ailly s.N.,09:39:00,Amiens,09:56:00,solid
+81,33,Paris,07:31:00,Enghien,07:50:00,solid
+82,33,Enghien,07:50:00,Pontoise,08:20:00,solid
+83,5 bis,Paris,08:00:00,Enghien,08:12:00,solid
+84,5 bis,Enghien,08:12:00,Pontoise,08:29:00,solid
+85,5 bis,Pontoise,08:32:00,Beaumont,08:52:00,solid
+86,5 bis,Beaumont,08:52:00,Creil,09:15:00,solid
+87,5 bis,Creil,09:20:00,Clermont,09:38:00,solid
+88,5 bis,Clermont,09:38:00,St Just,09:52:00,solid
+89,5 bis,St Just,09:52:00,Breteuil,10:08:00,solid
+90,5 bis,Breteuil,10:10:00,Ailly s.N.,10:25:00,solid
+91,5 bis,Ailly s.N.,10:25:00,Amiens,10:45:00,solid
+92,5 bis,Amiens,11:00:00,Abbeville,11:45:00,solid
+93,5 bis,Abbeville,11:50:00,Montreuil,12:25:00,solid
+94,5 bis,Montreuil,12:30:00,Boulogne,01:18:00,solid
+95,7,Paris,08:15:00,Enghien,08:35:00,solid
+96,7,Enghien,08:35:00,Pontoise,09:07:00,solid
+97,7,Pontoise,09:12:00,Beaumont,09:41:00,dashed
+98,7,Beaumont,09:41:00,Creil,10:20:00,dashed
+99,,Paris,08:30:00,Enghien,08:50:00,solid
+100,123 fac,Paris,08:45:00,Enghien,09:10:00,dashed
+101,123 fac,Enghien,09:10:00,Pontoise,09:35:00,dashed
+102,123 fac,Pontoise,09:45:00,Beaumont,10:17:00,dashed
+103,123 fac,Beaumont,10:25:00,Creil,11:05:00,dashed
+104,123 fac,Creil,11:20:00,Clermont,11:50:00,dashed
+105,123 fac,Clermont,11:55:00,St Just,12:23:00,dashed
+106,123 fac,St Just,12:23:00,Breteuil,12:55:00,dashed
+107,123 fac,Breteuil,13:00:00,Ailly s.N.,13:29:00,dashed
+108,123 fac,Ailly s.N.,13:29:00,Amiens,14:10:00,dashed
+109,,Paris,09:01:00,Enghien,09:35:00,solid
+110,101,Enghien,09:40:00,Pontoise,10:35:00,dashed
+111,101,Pontoise,10:50:00,Beaumont,11:50:00,dashed
+112,101,Beaumont,12:50:00,Creil,14:00:00,dashed
+113,101,Creil,15:00:00,Clermont,15:45:00,dashed
+114,101,Clermont,16:00:00,St Just,16:38:00,dashed
+115,101,St Just,16:38:00,Breteuil,17:25:00,dashed
+116,101,Breteuil,17:40:00,Ailly s.N.,18:21:00,dashed
+117,101,Ailly s.N.,18:21:00,Amiens,19:20:00,dashed
+118,163 fac,Amiens,19:30:00,Abbeville,21:00:00,dashed
+119,,Paris,09:30:00,Enghien,09:50:00,solid
+120,39,Paris,10:34:00,Enghien,10:52:00,solid
+121,39,Enghien,10:52:00,Pontoise,11:25:00,solid
+122,9,Paris,11:00:00,Enghien,11:11:00,solid
+123,9,Enghien,11:11:00,Pontoise,11:34:00,solid
+124,9,Pontoise,11:36:00,Beaumont,12:00:00,solid
+125,9,Beaumont,12:00:00,Creil,12:27:00,solid
+126,9,Creil,12:35:00,Clermont,12:55:00,solid
+127,9,Clermont,13:00:00,St Just,13:17:00,solid
+128,9,St Just,13:17:00,Breteuil,13:35:00,solid
+129,9,Breteuil,13:40:00,Ailly s.N.,14:05:00,solid
+130,9,Ailly s.N.,14:05:00,Amiens,14:35:00,solid
+131,9,Amiens,14:55:00,Abbeville,16:05:00,solid
+132,9,Abbeville,16:10:00,Montreuil,17:00:00,solid
+133,9,Montreuil,17:07:00,Boulogne,18:05:00,solid
+134,161 fac,Abbeville,16:30:00,Montreuil,17:35:00,dashed
+135,161 fac,Montreuil,17:50:00,Boulogne,19:07:00,dashed
+136,,Paris,11:30:00,Enghien,11:45:00,solid
+137,11,Paris,11:45:00,Enghien,12:00:00,solid
+138,11,Enghien,12:00:00,Pontoise,12:17:00,solid
+139,11,Pontoise,12:20:00,Beaumont,12:38:00,solid
+140,11,Beaumont,12:38:00,Creil,13:00:00,solid
+141,4,Creil,13:10:00,Clermont,13:28:00,solid
+142,4,Clermont,13:28:00,St Just,13:45:00,solid
+143,4,St Just,13:45:00,Breteuil,14:04:00,solid
+144,11,Breteuil,14:06:00,Ailly s.N.,14:30:00,solid
+145,11,Ailly s.N.,14:30:00,Amiens,15:00:00,solid
+146,13,Paris,12:15:00,Enghien,12:35:00,solid
+147,13,Enghien,12:35:00,Pontoise,13:04:00,solid
+148,13,Pontoise,13:06:00,Beaumont,13:45:00,solid
+149,13,Beaumont,13:45:00,Creil,14:15:00,solid
+150,,Paris,12:30:00,Enghien,12:50:00,solid
+151,127 fac,Paris,13:12:00,Enghien,13:32:00,dashed
+152,127 fac,Enghien,13:32:00,Pontoise,14:10:00,dashed
+153,127 fac,Pontoise,14:15:00,Beaumont,14:55:00,dashed
+154,127 fac,Beaumont,15:05:00,Creil,15:45:00,dashed
+155,127 fac,Creil,16:00:00,Clermont,16:30:00,dashed
+156,127 fac,Clermont,16:40:00,St Just,17:15:00,dashed
+157,127 fac,St Just,17:15:00,Breteuil,17:50:00,dashed
+158,127 fac,Breteuil,18:00:00,Ailly s.N.,18:45:00,dashed
+159,127 fac,Ailly s.N.,18:50:00,Amiens,19:50:00,dashed
+160,45,Paris,13:30:00,Enghien,13:50:00,solid
+161,45,Enghien,13:50:00,Pontoise,14:25:00,solid
+162,103,Paris,13:45:00,Enghien,14:22:00,dashed
+163,103,Enghien,14:22:00,Pontoise,15:08:00,dashed
+164,103,Pontoise,15:15:00,Beaumont,16:05:00,dashed
+165,103,Beaumont,16:10:00,Creil,17:05:00,dashed
+166,103,Creil,17:20:00,Clermont,18:00:00,dashed
+167,103,Clermont,18:35:00,St Just,19:09:00,dashed
+168,103,St Just,19:15:00,Breteuil,19:50:00,dashed
+169,103,Breteuil,19:55:00,Ailly s.N.,20:30:00,dashed
+170,103,Ailly s.N.,20:35:00,Amiens,21:25:00,dashed
+171,,Paris,14:30:00,Enghien,14:50:00,solid
+172,,Paris,15:30:00,Enghien,15:50:00,solid
+173,15,Paris,16:00:00,Enghien,16:15:00,solid
+174,15,Enghien,16:15:00,Pontoise,16:37:00,solid
+175,5,Pontoise,16:40:00,Beaumont,17:15:00,solid
+176,5,Beaumont,17:15:00,Creil,17:48:00,solid
+177,15,Creil,18:00:00,Clermont,18:15:00,solid
+178,15,Clermont,18:25:00,St Just,18:42:00,solid
+179,15,St Just,18:42:00,Breteuil,19:04:00,solid
+180,15,Breteuil,19:06:00,Ailly s.N.,19:32:00,solid
+181,15,Ailly s.N.,19:32:00,Amiens,20:00:00,solid
+182,15,Amiens,20:20:00,Abbeville,21:22:00,solid
+183,15,Abbeville,21:25:00,Montreuil,22:20:00,solid
+184,15,Montreuil,22:20:00,Boulogne,23:10:00,solid
+185,51,Paris,16:30:00,Enghien,16:50:00,solid
+186,51,Enghien,16:50:00,Pontoise,17:25:00,solid
+187,129 fac,Paris,16:45:00,Enghien,17:15:00,dashed
+188,129 fac,Enghien,17:15:00,Pontoise,18:00:00,dashed
+189,129 fac,Pontoise,18:05:00,Beaumont,18:50:00,dashed
+190,129 fac,Beaumont,18:55:00,Creil,19:55:00,dashed
+191,129 fac,Creil,21:50:00,Clermont,22:35:00,dashed
+192,129 fac,Clermont,22:40:00,St Just,23:12:00,dashed
+193,129 fac,St Just,23:12:00,Breteuil,23:50:00,dashed
+194,129 fac,Breteuil,00:00:00,Ailly s.N.,00:45:00,dashed
+195,129 fac,Ailly s.N.,00:50:00,Amiens,01:50:00,dashed
+196,53,Paris,17:30:00,Enghien,17:52:00,solid
+197,53,Enghien,17:52:00,Pontoise,18:27:00,solid
+198,,Paris,18:30:00,Enghien,18:50:00,solid
+199,17,Paris,19:30:00,Enghien,19:42:00,solid
+200,17,Enghien,19:42:00,Pontoise,19:57:00,solid
+201,17,Pontoise,20:00:00,Beaumont,20:15:00,solid
+202,17,Beaumont,20:15:00,Creil,20:35:00,solid
+203,17,Creil,20:45:00,Clermont,20:57:00,solid
+204,17,Clermont,20:57:00,St Just,21:10:00,solid
+205,17,St Just,21:10:00,Breteuil,21:23:00,solid
+206,17,Breteuil,21:26:00,Ailly s.N.,21:37:00,solid
+207,17,Ailly s.N.,21:37:00,Amiens,21:54:00,solid
+208,,Paris,19:35:00,Enghien,19:55:00,solid
+209,19,Paris,20:00:00,Enghien,20:13:00,solid
+210,19,Enghien,20:13:00,Pontoise,20:35:00,solid
+211,19,Pontoise,20:37:00,Beaumont,21:00:00,solid
+212,19,Beaumont,21:00:00,Creil,21:25:00,solid
+213,19,Creil,21:32:00,Clermont,21:55:00,solid
+214,19,Clermont,21:55:00,St Just,22:15:00,solid
+215,19,St Just,22:15:00,Breteuil,22:32:00,solid
+216,19,Breteuil,22:37:00,Ailly s.N.,22:55:00,solid
+217,19,Ailly s.N.,22:55:00,Amiens,23:20:00,solid
+218,21,Paris,20:30:00,Enghien,20:50:00,solid
+219,21,Enghien,20:50:00,Pontoise,21:25:00,solid
+220,21,Pontoise,21:30:00,Beaumont,22:00:00,solid
+221,21,Beaumont,22:00:00,Creil,22:40:00,solid
+222,107,Paris,21:00:00,Enghien,21:30:00,dashed
+223,107,Enghien,21:30:00,Pontoise,22:12:00,dashed
+224,107,Pontoise,22:21:00,Beaumont,23:07:00,dashed
+225,107,Beaumont,23:10:00,Creil,00:10:00,dashed
+226,107,Creil,01:30:00,Clermont,02:25:00,dashed
+227,107,Clermont,02:30:00,St Just,03:25:00,dashed
+228,107,St Just,03:35:00,Breteuil,04:25:00,dashed
+229,107,Breteuil,04:32:00,Ailly s.N.,05:28:00,dashed
+230,107,Ailly s.N.,05:32:00,Amiens,06:37:00,dashed
+231,59,Paris,21:30:00,Enghien,21:52:00,solid
+232,59,Enghien,21:52:00,Pontoise,22:25:00,solid
+233,2,Amiens,00:30:00,Ailly s.N.,01:05:00,solid
+234,2,Ailly s.N.,01:05:00,Breteuil,01:25:00,solid
+235,2,Breteuil,01:30:00,St Just,01:57:00,dashed
+236,2,St Just,01:57:00,Clermont,02:20:00,dashed
+237,2,Clermont,02:25:00,Creil,02:50:00,solid
+238,2,Creil,03:00:00,Beaumont,03:30:00,solid
+239,2,Beaumont,03:35:00,Pontoise,04:05:00,solid
+240,2,Pontoise,04:07:00,Enghien,04:37:00,solid
+241,2,Enghien,04:37:00,Paris,05:00:00,solid
+242,4,Amiens,01:20:00,Ailly s.N.,01:48:00,solid
+243,4,Ailly s.N.,01:48:00,Breteuil,02:10:00,solid
+244,4,Breteuil,02:15:00,St Just,02:37:00,solid
+245,4,St Just,02:37:00,Clermont,02:55:00,solid
+246,4,Clermont,02:57:00,Creil,03:20:00,solid
+247,4,Creil,03:30:00,Beaumont,04:00:00,solid
+248,4,Beaumont,04:05:00,Pontoise,04:30:00,solid
+249,4,Pontoise,04:37:00,Enghien,05:10:00,solid
+250,4,Enghien,05:10:00,Paris,05:30:00,solid
+251,4 bis,Amiens,01:45:00,Ailly s.N.,02:19:00,solid
+252,4 bis,Ailly s.N.,02:19:00,Breteuil,02:40:00,solid
+253,4 bis,Breteuil,02:45:00,St Just,03:05:00,solid
+254,4 bis,St Just,03:05:00,Clermont,03:25:00,solid
+255,4 bis,Clermont,03:31:00,Creil,03:55:00,solid
+256,4 bis,Creil,04:00:00,Beaumont,04:30:00,solid
+257,4 bis,Beaumont,04:30:00,Pontoise,05:00:00,solid
+258,4 bis,Pontoise,05:07:00,Enghien,05:38:00,solid
+259,4 bis,Enghien,05:38:00,Paris,06:00:00,solid
+260,118 fac,Amiens,03:32:00,Ailly s.N.,04:20:00,dashed
+261,118 fac,Ailly s.N.,04:27:00,Breteuil,05:12:00,dashed
+262,118 fac,Breteuil,05:25:00,St Just,06:02:00,dashed
+263,118 fac,St Just,06:10:00,Clermont,06:50:00,dashed
+264,118 fac,Clermont,07:30:00,Creil,08:08:00,dashed
+265,118 fac,Creil,09:20:00,Beaumont,10:18:00,dashed
+266,118 fac,Beaumont,10:25:00,Pontoise,11:10:00,dashed
+267,118 fac,Pontoise,11:32:00,Enghien,12:20:00,dashed
+268,118 fac,Enghien,12:20:00,Paris,12:50:00,dashed
+269,6,Amiens,06:10:00,Ailly s.N.,06:30:00,solid
+270,6,Ailly s.N.,06:30:00,Breteuil,06:42:00,solid
+271,6,Breteuil,06:45:00,St Just,07:00:00,solid
+272,6,St Just,07:00:00,Clermont,07:15:00,solid
+273,6,Clermont,07:15:00,Creil,07:30:00,solid
+274,6,Creil,07:40:00,Beaumont,08:00:00,solid
+275,6,Beaumont,08:00:00,Pontoise,08:15:00,solid
+276,6,Pontoise,08:15:00,Enghien,08:32:00,solid
+277,6,Enghien,08:32:00,Paris,08:46:00,solid
+278,8,Amiens,06:30:00,Ailly s.N.,07:05:00,dot-dashed
+279,8,Ailly s.N.,07:05:00,Breteuil,07:32:00,dot-dashed
+280,8,Breteuil,07:35:00,St Just,08:00:00,dot-dashed
+281,8,St Just,08:00:00,Clermont,08:22:00,dot-dashed
+282,8,Clermont,08:22:00,Creil,08:50:00,dot-dashed
+283,8,Creil,09:05:00,Beaumont,09:42:00,solid
+284,8,Beaumont,09:42:00,Pontoise,10:15:00,solid
+285,8,Pontoise,10:20:00,Enghien,10:50:00,solid
+286,8,Enghien,10:50:00,Paris,11:08:00,solid
+287,112,Amiens,07:00:00,Ailly s.N.,07:40:00,dashed
+288,112,Ailly s.N.,07:45:00,Breteuil,08:20:00,dashed
+289,112,Breteuil,08:30:00,St Just,09:10:00,dashed
+290,112,St Just,09:15:00,Clermont,10:05:00,dashed
+291,112,Clermont,10:15:00,Creil,11:00:00,dashed
+292,112,Creil,11:20:00,Beaumont,12:15:00,dashed
+293,112,Beaumont,12:30:00,Pontoise,13:22:00,dashed
+294,112,Pontoise,14:30:00,Enghien,15:20:00,dashed
+295,112,Enghien,15:20:00,Paris,15:50:00,dashed
+296,120 fac,Amiens,08:15:00,Ailly s.N.,08:55:00,dashed
+297,120 fac,Ailly s.N.,08:55:00,Breteuil,09:35:00,dashed
+298,120 fac,Breteuil,09:35:00,St Just,10:15:00,dashed
+299,120 fac,St Just,10:20:00,Clermont,11:05:00,dashed
+300,120 fac,Clermont,11:18:00,Creil,12:00:00,dashed
+301,120 fac,Creil,12:20:00,Beaumont,13:15:00,dashed
+302,120 fac,Beaumont,15:15:00,Pontoise,15:35:00,dashed
+303,50,Pontoise,15:35:00,Enghien,16:15:00,solid
+304,50,Enghien,16:15:00,Paris,16:37:00,solid
+305,10,Boulogne,06:00:00,Montreuil,07:05:00,solid
+306,10,Montreuil,07:15:00,Abbeville,08:25:00,solid
+307,10,Abbeville,08:35:00,Amiens,10:00:00,solid
+308,10,Amiens,10:30:00,Ailly s.N.,11:05:00,solid
+309,10,Ailly s.N.,11:05:00,Breteuil,11:32:00,solid
+310,10,Breteuil,11:35:00,St Just,12:00:00,solid
+311,10,St Just,12:00:00,Clermont,12:24:00,solid
+312,10,Clermont,12:27:00,Creil,12:49:00,solid
+313,10,Creil,13:00:00,Beaumont,13:30:00,solid
+314,10,Beaumont,13:35:00,Pontoise,14:05:00,solid
+315,10,Pontoise,14:10:00,Enghien,14:27:00,solid
+316,10,Enghien,14:27:00,Paris,14:40:00,solid
+317,126 fac,Amiens,11:45:00,Ailly s.N.,12:22:00,dashed
+318,126 fac,Ailly s.N.,12:30:00,Breteuil,13:05:00,dashed
+319,126 fac,Breteuil,13:10:00,St Just,13:45:00,dashed
+320,126 fac,St Just,13:50:00,Clermont,14:30:00,dashed
+321,126 fac,Clermont,15:30:00,Creil,16:15:00,solid
+322,126 fac,Creil,16:40:00,Beaumont,17:30:00,dashed
+323,126 fac,Beaumont,17:35:00,Pontoise,18:20:00,dashed
+324,126 fac,Pontoise,18:30:00,Enghien,19:15:00,dashed
+325,126 fac,Enghien,19:15:00,Paris,19:50:00,dashed
+326,16,Amiens,13:50:00,Ailly s.N.,14:16:00,solid
+327,16,Ailly s.N.,14:16:00,Breteuil,14:34:00,solid
+328,16,Breteuil,14:36:00,St Just,14:52:00,solid
+329,16,St Just,14:52:00,Clermont,15:05:00,solid
+330,16,Clermont,15:11:00,Creil,15:25:00,solid
+331,16,Creil,15:35:00,Beaumont,15:57:00,solid
+332,16,Beaumont,15:57:00,Pontoise,16:18:00,solid
+333,16,Pontoise,16:18:00,Enghien,16:41:00,solid
+334,16,Enghien,16:41:00,Paris,17:00:00,solid
+335,130 fac,Amiens,14:15:00,Ailly s.N.,15:05:00,dashed
+336,130 fac,Ailly s.N.,15:10:00,Breteuil,15:55:00,dashed
+337,130 fac,Breteuil,16:35:00,St Just,17:18:00,dashed
+338,130 fac,St Just,17:18:00,Clermont,17:59:00,dashed
+339,130 fac,Clermont,18:05:00,Creil,18:29:00,dashed
+340,130 fac,Creil,18:40:00,Beaumont,19:25:00,dashed
+341,130 fac,Beaumont,19:30:00,Pontoise,20:15:00,dashed
+342,130 fac,Pontoise,20:35:00,Enghien,21:20:00,dashed
+343,130 fac,Enghien,21:20:00,Paris,21:50:00,dashed
+344,18,Boulogne,12:30:00,Montreuil,13:20:00,solid
+345,18,Montreuil,13:20:00,Abbeville,14:20:00,solid
+346,18,Abbeville,14:25:00,Amiens,15:25:00,solid
+347,18,Amiens,15:45:00,Ailly s.N.,16:08:00,solid
+348,18,Ailly s.N.,16:08:00,Breteuil,16:25:00,solid
+349,18,Breteuil,16:30:00,St Just,16:48:00,solid
+350,18,St Just,16:48:00,Clermont,17:05:00,solid
+351,18,Clermont,17:10:00,Creil,17:25:00,solid
+352,18,Creil,17:35:00,Beaumont,18:00:00,solid
+353,18,Beaumont,18:00:00,Pontoise,18:20:00,solid
+354,18,Pontoise,18:20:00,Enghien,18:42:00,solid
+355,18,Enghien,18:42:00,Paris,19:00:00,solid
+356,160 Facultatif,Boulogne,12:40:00,Montreuil,13:55:00,dashed
+357,160 Facultatif,Montreuil,14:10:00,Abbeville,15:30:00,dashed
+358,100,Amiens,17:05:00,Ailly s.N.,17:41:00,dashed
+359,100,Ailly s.N.,17:41:00,Breteuil,18:10:00,dashed
+360,100,Breteuil,18:15:00,St Just,18:42:00,dashed
+361,100,St Just,18:42:00,Clermont,19:10:00,dashed
+362,100,Clermont,19:15:00,Creil,19:50:00,dashed
+363,100,Creil,23:50:00,Beaumont,00:37:00,dashed
+364,100,Beaumont,00:45:00,Pontoise,01:35:00,dashed
+365,100,Pontoise,01:55:00,Enghien,02:35:00,dashed
+366,100,Enghien,02:35:00,Paris,03:00:00,dashed
+367,28,Abbeville,16:30:00,Amiens,18:20:00,dot-dashed
+368,102,Amiens,18:20:00,Ailly s.N.,19:00:00,dashed
+369,102,Ailly s.N.,19:05:00,Breteuil,19:40:00,dashed
+370,102,Breteuil,20:35:00,St Just,21:10:00,dashed
+371,102,St Just,21:15:00,Clermont,21:35:00,dashed
+372,102,Clermont,21:55:00,Creil,22:28:00,dashed
+373,102,Creil,22:50:00,Beaumont,23:35:00,dashed
+374,102,Beaumont,23:50:00,Pontoise,00:45:00,dashed
+375,102,Pontoise,00:55:00,Enghien,01:32:00,dashed
+376,102,Enghien,01:32:00,Paris,02:00:00,dashed
+377,20,Creil,20:05:00,Beaumont,20:42:00,solid
+378,20,Beaumont,20:42:00,Pontoise,21:15:00,solid
+379,20,Pontoise,21:20:00,Enghien,21:48:00,solid
+380,20,Enghien,21:48:00,Paris,22:05:00,solid
+381,22,Boulogne,17:15:00,Montreuil,17:55:00,solid
+382,22,Montreuil,17:55:00,Abbeville,18:35:00,solid
+383,22,Abbeville,18:40:00,Amiens,19:25:00,solid
+384,22,Amiens,19:50:00,Ailly s.N.,20:15:00,solid
+385,22,Ailly s.N.,20:15:00,Breteuil,20:35:00,solid
+386,22,Breteuil,20:35:00,St Just,20:52:00,solid
+387,22,St Just,20:52:00,Clermont,21:08:00,solid
+388,22,Clermont,21:08:00,Creil,21:25:00,solid
+389,22,Creil,21:32:00,Beaumont,21:54:00,solid
+390,22,Beaumont,21:54:00,Pontoise,22:11:00,solid
+391,22,Pontoise,22:11:00,Enghien,22:30:00,solid
+392,22,Enghien,22:30:00,Paris,22:42:00,solid
+393,162 fac,Boulogne,17:28:00,Montreuil,18:29:00,dashed
+394,162 fac,Montreuil,18:40:00,Abbeville,19:39:00,dashed
+395,162 fac,Abbeville,19:55:00,Amiens,21:25:00,dashed
+396,104,Amiens,22:00:00,Ailly s.N.,22:45:00,dashed
+397,104,Ailly s.N.,22:45:00,Breteuil,23:20:00,dashed
+398,104,Breteuil,23:25:00,St Just,1900-01-01 00:00:00,dashed
+399,104,St Just,00:05:00,Clermont,00:45:00,dashed
+400,104,Clermont,00:50:00,Creil,01:15:00,dashed
+401,104,Creil,01:45:00,Beaumont,02:29:00,dashed
+402,104,Beaumont,02:35:00,Pontoise,03:15:00,dashed
+403,104,Pontoise,03:22:00,Enghien,04:00:00,dashed
+404,104,Enghien,04:00:00,Paris,04:30:00,dashed
+405,,Abbeville,22:00:00,Amiens,23:30:00,dashed
+406,2,Boulogne,20:45:00,Montreuil,21:42:00,solid
+407,2,Montreuil,21:45:00,Abbeville,22:50:00,solid
+408,2,Abbeville,23:00:00,Amiens,00:00:00,solid
+409,2,Amiens,00:30:00,Ailly s.N.,01:05:00,solid
+410,2,Ailly s.N.,01:05:00,Breteuil,01:25:00,solid
+411,2,Breteuil,01:30:00,St Just,02:00:00,dashed
+412,2,St Just,02:00:00,Clermont,02:20:00,dashed
+413,2,Clermont,02:25:00,Creil,02:50:00,solid
+414,2,Creil,03:00:00,Beaumont,03:20:00,solid
+415,2,Beaumont,03:25:00,Pontoise,04:02:00,solid
+416,2,Pontoise,04:07:00,Enghien,04:37:00,solid
+417,2,Enghien,04:37:00,Paris,05:00:00,solid
+418,106,Amiens,23:20:00,Ailly s.N.,00:20:00,dashed
+419,106,Ailly s.N.,00:25:00,Breteuil,01:05:00,dashed
+420,106,Breteuil,02:30:00,St Just,03:05:00,dashed
+421,106,St Just,03:05:00,Clermont,03:38:00,dashed
+422,106,Clermont,03:38:00,Creil,04:20:00,dashed
+423,106,Creil,04:38:00,Beaumont,05:20:00,dashed
+424,106,Beaumont,05:25:00,Pontoise,06:05:00,solid
+425,106,Pontoise,06:10:00,Enghien,07:00:00,solid
+426,106,Enghien,07:00:00,Paris,07:30:00,dashed
+427,,Enghien,07:10:00,Paris,07:35:00,solid
+428,32,Creil,06:20:00,Beaumont,06:55:00,solid
+429,32,Beaumont,07:00:00,Pontoise,07:30:00,solid
+430,32,Pontoise,07:35:00,Enghien,08:10:00,solid
+431,32,Enghien,08:10:00,Paris,08:35:00,solid
+432,,Enghien,09:15:00,Paris,09:35:00,solid
+433,36,Pontoise,09:00:00,Enghien,09:35:00,solid
+434,36,Enghien,09:35:00,Paris,10:00:00,solid
+435,,Enghien,10:10:00,Paris,10:35:00,solid
+436,40,Pontoise,10:35:00,Enghien,11:10:00,solid
+437,40,Enghien,11:10:00,Paris,11:35:00,solid
+438,,Enghien,12:10:00,Paris,12:35:00,solid
+439,,Enghien,13:10:00,Paris,13:35:00,solid
+440,46,Pontoise,13:35:00,Enghien,14:10:00,solid
+441,46,Enghien,14:10:00,Paris,14:35:00,solid
+442,,Enghien,15:10:00,Paris,15:35:00,solid
+443,14,Creil,14:05:00,Beaumont,14:45:00,solid
+444,14,Beaumont,14:48:00,Pontoise,15:15:00,solid
+445,14,Pontoise,15:20:00,Enghien,15:50:00,solid
+446,14,Enghien,15:50:00,Paris,16:10:00,solid
+447,110 fac,Pontoise,16:38:00,Enghien,17:20:00,dashed
+448,110 fac,Enghien,17:20:00,Paris,17:50:00,dashed
+449,,Enghien,17:10:00,Paris,17:35:00,solid
+450,54,Pontoise,17:40:00,Enghien,18:15:00,solid
+451,54,Enghien,18:15:00,Paris,18:35:00,solid
+452,,Enghien,19:10:00,Paris,19:35:00,solid
+453,58,Pontoise,19:35:00,Enghien,20:10:00,solid
+454,58,Enghien,20:10:00,Paris,20:35:00,solid
+455,,Enghien,21:10:00,Paris,21:35:00,solid
+456,20,Creil,20:05:00,Beaumont,20:42:00,solid
+457,20,Beaumont,20:42:00,Pontoise,21:15:00,solid
+458,20,Pontoise,21:20:00,Enghien,21:48:00,solid
+459,20,Enghien,21:48:00,Paris,22:05:00,solid
+460,62,Pontoise,21:40:00,Enghien,22:12:00,solid
+461,62,Enghien,22:12:00,Paris,22:32:00,solid
