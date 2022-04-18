@@ -1,8 +1,8 @@
-,This spreadsheet contains data read from the Ligne de Paris à Boulogne: servive du 1er août 1852 train diagram
-0,Train diagram accessed at https://gallica.bnf.fr/ark:/12148/btv1b531360656/f1.item.zoom
-1,Transcription by: Mikael Vejdemo-Johansson (2022)
-2,
-3,Data cleaning notes
-4,101 from Creil to Clermont has erroneously been unlabeled
-5,121 fac from Creil to Clermont has erroneously been labeled 101
-6,21 from Beaumont to Creil has erroneously been labeled 22
+This spreadsheet contains data read from the Ligne de Paris à Boulogne: servive du 1er août 1852 train diagram
+Train diagram accessed at https://gallica.bnf.fr/ark:/12148/btv1b531360656/f1.item.zoom
+Transcription by: Mikael Vejdemo-Johansson (2022)
+
+Data cleaning notes
+101 from Creil to Clermont has erroneously been unlabeled
+121 fac from Creil to Clermont has erroneously been labeled 101
+21 from Beaumont to Creil has erroneously been labeled 22
